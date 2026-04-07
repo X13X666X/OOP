@@ -1,0 +1,7 @@
+C:\Users\Student\source\repos\lab8 interface\lab8 interface\bin\Debug\lab8 interface.exe.config
+C:\Users\Student\source\repos\lab8 interface\lab8 interface\bin\Debug\lab8 interface.exe
+C:\Users\Student\source\repos\lab8 interface\lab8 interface\bin\Debug\lab8 interface.pdb
+C:\Users\Student\source\repos\lab8 interface\lab8 interface\obj\Debug\lab8 interface.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\lab8 interface\lab8 interface\obj\Debug\lab8 interface.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\lab8 interface\lab8 interface\obj\Debug\lab8 interface.exe
+C:\Users\Student\source\repos\lab8 interface\lab8 interface\obj\Debug\lab8 interface.pdb
