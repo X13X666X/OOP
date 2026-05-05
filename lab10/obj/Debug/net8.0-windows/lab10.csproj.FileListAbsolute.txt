@@ -1,0 +1,17 @@
+C:\Users\Lorn\source\repos\lab10\bin\Debug\net8.0-windows\lab10.exe
+C:\Users\Lorn\source\repos\lab10\bin\Debug\net8.0-windows\lab10.deps.json
+C:\Users\Lorn\source\repos\lab10\bin\Debug\net8.0-windows\lab10.runtimeconfig.json
+C:\Users\Lorn\source\repos\lab10\bin\Debug\net8.0-windows\lab10.dll
+C:\Users\Lorn\source\repos\lab10\bin\Debug\net8.0-windows\lab10.pdb
+C:\Users\Lorn\source\repos\lab10\obj\Debug\net8.0-windows\lab10.Form1.resources
+C:\Users\Lorn\source\repos\lab10\obj\Debug\net8.0-windows\lab10.csproj.GenerateResource.cache
+C:\Users\Lorn\source\repos\lab10\obj\Debug\net8.0-windows\lab10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lorn\source\repos\lab10\obj\Debug\net8.0-windows\lab10.AssemblyInfoInputs.cache
+C:\Users\Lorn\source\repos\lab10\obj\Debug\net8.0-windows\lab10.AssemblyInfo.cs
+C:\Users\Lorn\source\repos\lab10\obj\Debug\net8.0-windows\lab10.csproj.CoreCompileInputs.cache
+C:\Users\Lorn\source\repos\lab10\obj\Debug\net8.0-windows\lab10.sourcelink.json
+C:\Users\Lorn\source\repos\lab10\obj\Debug\net8.0-windows\lab10.dll
+C:\Users\Lorn\source\repos\lab10\obj\Debug\net8.0-windows\refint\lab10.dll
+C:\Users\Lorn\source\repos\lab10\obj\Debug\net8.0-windows\lab10.pdb
+C:\Users\Lorn\source\repos\lab10\obj\Debug\net8.0-windows\lab10.genruntimeconfig.cache
+C:\Users\Lorn\source\repos\lab10\obj\Debug\net8.0-windows\ref\lab10.dll
